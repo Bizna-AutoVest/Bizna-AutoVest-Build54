@@ -4,19 +4,6 @@
 
 Built on **Hedera Hashgraph**, it merges **AI, blockchain, and mobile money** to make investing accessible and transparent for everyone.
 
----
-
-## 🚀 Project Links
-
-**🌐 Website:** [https://autovest.solyntra.org](https://autovest.solyntra.org)  
-**📱 Short Portfolio Demo (YouTube Short):** [https://www.youtube.com/shorts/5xxtLX_lPLs](https://www.youtube.com/shorts/5xxtLX_lPLs)  
-**🎥 Full Demo Video:** [https://autovest.solyntra.org/demo](https://autovest.solyntra.org/demo)  
-**📜 Certification:**  
-- View on HashgraphDev: [https://certs.hashgraphdev.com/e6054f8f-2775-4ae5-95b8-05cb14df9c89.pdf](https://certs.hashgraphdev.com/e6054f8f-2775-4ae5-95b8-05cb14df9c89.pdf)  
-- View directly (no download): [https://autovest.solyntra.org/docs/certificate.pdf](https://autovest.solyntra.org/docs/certificate.pdf)
-
----
-
 ## 💡 Vision
 
 To democratize access to investments in Kenya and across Africa by connecting **AI-driven insights**, **tokenized stocks**, and **mobile payments** through a WhatsApp chat.  
@@ -35,8 +22,6 @@ We aim to empower millions of Africans to own real shares, trade transparently, 
   - Purchase airtime or top up via **M-Pesa**
   - Complete **KYC** verification directly in WhatsApp
 - All trades are **on-chain**, and every transaction generates an immutable **Hedera Consensus Service (HCS)** message receipt.
-- For a quick visual of account creation, buying stocks, and checking the live portfolio inside WhatsApp, watch the short demo:  
-  👉 [https://www.youtube.com/shorts/5xxtLX_lPLs](https://www.youtube.com/shorts/5xxtLX_lPLs)
 
 ---
 
@@ -84,8 +69,6 @@ This dual-engine allows the AI to:
 
 3. **Watch as trades are executed on-chain**, and view your receipts via the Hedera explorer.
 
-4. For a fast visual overview of the experience (account creation → buying stocks → checking `/portfolio` inside WhatsApp), see the YouTube Short:  
-   👉 [https://www.youtube.com/shorts/5xxtLX_lPLs](https://www.youtube.com/shorts/5xxtLX_lPLs)
 
 ---
 
@@ -119,16 +102,6 @@ We’re building a future where anyone can:
 - Prosper through technology  
 
 Let’s make Africa’s next financial revolution happen on **Hedera**.
-
----
-
-### 🖇️ Useful Links
-
-- **Website:** [https://autovest.solyntra.org](https://autovest.solyntra.org)  
-- **Short Portfolio Demo:** [https://www.youtube.com/shorts/5xxtLX_lPLs](https://www.youtube.com/shorts/5xxtLX_lPLs)  
-- **Full Demo Video:** [https://autovest.solyntra.org/demo](https://autovest.solyntra.org/demo)  
-- **Certification:** [https://autovest.solyntra.org/docs/certificate.pdf](https://autovest.solyntra.org/docs/certificate.pdf)  
-- **Join Community:** [https://whatsapp.solyntra.org/join](https://whatsapp.solyntra.org/join)
 
 ---
 
